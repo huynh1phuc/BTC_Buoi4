@@ -22,7 +22,7 @@ while(true)
             break;
         case "exit" : return;
         default:
-            Console.WriteLine("Lựa chọn không hợp lệ. Vui lòng chọn từ 1 đến 10 hoặc gõ 'all' để chạy tất cả hoặc gõ 'exit' để thoát.");
+            Console.WriteLine("Lựa chọn không hợp lệ. Vui lòng chọn từ 1 đến 3 hoặc gõ 'all' để chạy tất cả hoặc gõ 'exit' để thoát.");
             break;
     }
 }
